@@ -1,4 +1,3 @@
 baseURL = 'https://amemeida.github.io'
 languageCode = 'pt-br'
 title = 'blog!!'
-theme = 'ananke'
