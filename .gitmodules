@@ -1,3 +1,3 @@
-[submodule "themes/ananke"]
-	path = themes/ananke
-	url = https://github.com/theNewDynamic/gohugo-theme-ananke
+[submodule "content/monitorias"]
+	path = content/monitorias
+	url = https://github.com/AmeMeida/vault-monitorias
